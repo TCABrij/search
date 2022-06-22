@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: gainsboro;
+}
+.centered{
+    display: grid;
+    place-content: center;
+}
+
+.user{
+    text-align: center;
+}
+.user > img{
+    width: auto;
+}
+.title{
+    font-size: 1.2em;
+}
+
+
+/* input fields  */
+.input-field{
+    margin-top: 10px;
+    text-align: center;
+}
+#input, 
+#input:focus{
+    outline: none;
+    font-size: 1em;
+    padding: .5em .5em .5em 2.1em;
+    font-weight: 500;
+    color: rgb(96, 96, 96);
+    border: 1px solid orange;
+    background: url("img/search.png") no-repeat;
+    background-position: left;
+    background-size: contain;
+    background-color: rgb(235, 235, 235);
+}
+#input:focus{
+    outline: 1px solid orange;
+    background-color: white;
+}
+#input::placeholder{
+    font-weight: 100;
+}
+
+/* cards */
+.cards-row{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 10px;
+    padding: 10px;
+    background-color: white;
+    margin-top: 1rem;
+}
+.card{
+    border-radius: 10px;
+    background-color: white;
+    margin: 5px;
+    cursor: pointer;
+    border: 1px solid gray;
+}
+.card:hover{
+    box-shadow: 
+        0px 0px 15px rgba(0, 0, 0, .4);
+    border: none;
+    animation: blink 1s infinite;
+}
+@keyframes blink {
+    50%{
+        transform: rotateZ(-1deg);
+    }
+    100%{
+        transform: rotateZ(0deg);
+    }
+}
+
+.img-container{
+    position: relative;
+    overflow: hidden;
+    border-radius: 10px;
+}
+.user-img{
+    width: 100%;
+    border-radius: 10px;
+    transition: transform .4s;
+}
+.card:hover .user-img{
+    transform: scale(1.2);
+}
+.user-name{
+    text-align: center;
+    margin: 10px;
+}
+.user-bio{
+    height: 0px;
+    overflow: hidden;
+    word-spacing: 2px;
+}
+.card:hover .user-bio{
+    transition: height 1s;
+    height: auto;
+    padding: 8px;
+}
