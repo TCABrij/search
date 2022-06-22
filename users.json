@@ -1,3 +1,63 @@
-{
-    
-}
+[
+    {
+        "name": "Alexender Hipp",
+        "src": "img/users/1.jpg",
+        "bio": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Alias, maiores. Recusandae, perspiciatis. Ex molestiae sapiente sunt quibusdam alias aliquam necessitatibus!" 
+    },
+    {
+        "name": "Ali Morshedlou",
+        "src": "img/users/2.jpg",
+        "bio": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Alias, maiores. Recusandae, perspiciatis. Ex molestiae sapiente sunt quibusdam alias aliquam necessitatibus!" 
+    },
+    {
+        "name": "Charles Etoroma",
+        "src": "img/users/3.jpg",
+        "bio": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Alias, maiores. Recusandae, perspiciatis. Ex molestiae sapiente sunt quibusdam alias aliquam necessitatibus!" 
+    },
+    {
+        "name": "Cristina",
+        "src": "img/users/4.jpg",
+        "bio": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Alias, maiores. Recusandae, perspiciatis. Ex molestiae sapiente sunt quibusdam alias aliquam necessitatibus!" 
+    },
+    {
+        "name": "Edward Cisneros",
+        "src": "img/users/5.jpg",
+        "bio": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Alias, maiores. Recusandae, perspiciatis. Ex molestiae sapiente sunt quibusdam alias aliquam necessitatibus!" 
+    },
+    {
+        "name": "Joseph Gongalez",
+        "src": "img/users/6.jpg",
+        "bio": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Alias, maiores. Recusandae, perspiciatis. Ex molestiae sapiente sunt quibusdam alias aliquam necessitatibus!" 
+    },
+    {
+        "name": "Juan Encalada",
+        "src": "img/users/7.jpg",
+        "bio": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Alias, maiores. Recusandae, perspiciatis. Ex molestiae sapiente sunt quibusdam alias aliquam necessitatibus!" 
+    },
+    {
+        "name": "Julian Wan",
+        "src": "img/users/8.jpg",
+        "bio": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Alias, maiores. Recusandae, perspiciatis. Ex molestiae sapiente sunt quibusdam alias aliquam necessitatibus!" 
+    },
+    {
+        "name": "Jurica Koletic",
+        "src": "img/users/9.jpg",
+        "bio": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Alias, maiores. Recusandae, perspiciatis. Ex molestiae sapiente sunt quibusdam alias aliquam necessitatibus!" 
+    },
+    {
+        "name": "Karl",
+        "src": "img/users/10.jpg",
+        "bio": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Alias, maiores. Recusandae, perspiciatis. Ex molestiae sapiente sunt quibusdam alias aliquam necessitatibus!" 
+    },
+    {
+        "name": "Mahdi Befande",
+        "src": "img/users/11.jpg",
+        "bio": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Alias, maiores. Recusandae, perspiciatis. Ex molestiae sapiente sunt quibusdam alias aliquam necessitatibus!" 
+    },
+    {
+        "name": "Oguz Yagiz",
+        "src": "img/users/12.jpg",
+        "bio": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Alias, maiores. Recusandae, perspiciatis. Ex molestiae sapiente sunt quibusdam alias aliquam necessitatibus!" 
+    }
+]
+
